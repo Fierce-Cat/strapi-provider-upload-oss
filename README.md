@@ -16,7 +16,7 @@ module.exports = ({ env }) => ({
   upload: {
       enabled: true,
       config: {
-          provider: 'strapi-provider-upload-oss',
+          provider: '@fiercecat/strapi-provider-upload-oss',
           providerOptions: {
           baseUrl: env('OSS_BASE_URL'),
           accessKeyId: env('OSS_ACCESS_KEY_ID'),
