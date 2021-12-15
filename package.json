@@ -4,17 +4,17 @@
   "description": "AWS S3 provider for strapi upload, config with ALiyun OSS",
   "keywords": [
     "upload",
-    "aws",
+    "oss",
     "s3",
     "strapi"
   ],
   "homepage": "https://strapi.io",
   "bugs": {
-    "url": "https://github.com/strapi/strapi/issues"
+    "url": "https://github.com/Fierce-Cat/strapi-provider-upload-oss/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/strapi/strapi.git"
+    "url": "git://github.com/Fierce-Cat/strapi-provider-upload-oss.git"
   },
   "license": "SEE LICENSE IN LICENSE",
   "author": {
@@ -24,9 +24,8 @@
   },
   "maintainers": [
     {
-      "name": "Strapi Solutions SAS",
-      "email": "hi@strapi.io",
-      "url": "https://strapi.io"
+      "name": "Fierce-Cat",
+      "url": "https://github.com/Fierce-Cat"
     }
   ],
   "main": "./lib",
